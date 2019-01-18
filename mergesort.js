@@ -26,11 +26,3 @@ const mergeSort = function(arr) {
 
     return merge(left, right);
 }
-
-// arr1 = [1,3,5,7];
-// arr2 = [2,4,6,8];
-
-// i = 4
-// j = 3
-
-// result = [1, 2, 3, 4, 5, 6, 7, 8];
